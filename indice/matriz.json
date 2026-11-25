@@ -1,0 +1,263 @@
+{
+ "edital": "HCRP 38/2026",
+ "prova": {
+  "questoes": 50,
+  "pontos_por_questao": 2,
+  "corte_pontos": 70,
+  "corte_acertos": 35,
+  "duracao_h": 3,
+  "blocos": {
+   "especificos": 35,
+   "portugues": 5,
+   "adm_publica": 5,
+   "informatica": 5
+  }
+ },
+ "faixas": {
+  "Alta": ">75%",
+  "Media": "40-74%",
+  "Baixa": "<40%",
+  "natureza": "estimativa editorial, sem prova anterior HCRP localizada"
+ },
+ "topicos": [
+  {
+   "n": 1,
+   "nome": "Competências do COFEN e COREN",
+   "faixa": "Alta",
+   "itens_proj": "1",
+   "capitulos": [
+    1
+   ]
+  },
+  {
+   "n": 2,
+   "nome": "Legislação do exercício profissional",
+   "faixa": "Alta",
+   "itens_proj": "1",
+   "capitulos": [
+    1
+   ]
+  },
+  {
+   "n": 3,
+   "nome": "Códigos de Ética e de Processo Ético",
+   "faixa": "Alta",
+   "itens_proj": "1",
+   "capitulos": [
+    1
+   ]
+  },
+  {
+   "n": 4,
+   "nome": "SUS – Lei 8.080/90",
+   "faixa": "Alta",
+   "itens_proj": "2-3",
+   "capitulos": [
+    2
+   ]
+  },
+  {
+   "n": 5,
+   "nome": "NR-32",
+   "faixa": "Alta",
+   "itens_proj": "1-2",
+   "capitulos": [
+    3
+   ]
+  },
+  {
+   "n": 6,
+   "nome": "Introdução e Fundamentos",
+   "faixa": "Alta",
+   "itens_proj": "2-3",
+   "capitulos": [
+    7
+   ]
+  },
+  {
+   "n": 7,
+   "nome": "Farmacologia (+cálculo)",
+   "faixa": "Alta",
+   "itens_proj": "2-3",
+   "capitulos": [
+    8
+   ]
+  },
+  {
+   "n": 8,
+   "nome": "Centro Cirúrgico e CME",
+   "faixa": "Média",
+   "itens_proj": "1-2",
+   "capitulos": [
+    9
+   ]
+  },
+  {
+   "n": 9,
+   "nome": "Clínica Cirúrgica",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    10
+   ]
+  },
+  {
+   "n": 10,
+   "nome": "Clínica Médica",
+   "faixa": "Alta",
+   "itens_proj": "2",
+   "capitulos": [
+    11
+   ]
+  },
+  {
+   "n": 11,
+   "nome": "Nutrição e Dietética",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    12
+   ]
+  },
+  {
+   "n": 12,
+   "nome": "Urgências e Emergências",
+   "faixa": "Alta",
+   "itens_proj": "2",
+   "capitulos": [
+    13
+   ]
+  },
+  {
+   "n": 13,
+   "nome": "Saúde Coletiva",
+   "faixa": "Média",
+   "itens_proj": "1-2",
+   "capitulos": [
+    15
+   ]
+  },
+  {
+   "n": 14,
+   "nome": "Pediatria e Neonatologia",
+   "faixa": "Média",
+   "itens_proj": "1-2",
+   "capitulos": [
+    16
+   ]
+  },
+  {
+   "n": 15,
+   "nome": "Obstetrícia e Ginecologia",
+   "faixa": "Média",
+   "itens_proj": "1-2",
+   "capitulos": [
+    17
+   ]
+  },
+  {
+   "n": 16,
+   "nome": "Ortopedia",
+   "faixa": "Baixa",
+   "itens_proj": "0-1",
+   "capitulos": [
+    20
+   ]
+  },
+  {
+   "n": 17,
+   "nome": "Saúde Mental",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    18
+   ]
+  },
+  {
+   "n": 18,
+   "nome": "Geriatria",
+   "faixa": "Baixa",
+   "itens_proj": "0-1",
+   "capitulos": [
+    19
+   ]
+  },
+  {
+   "n": 19,
+   "nome": "CTI",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    14
+   ]
+  },
+  {
+   "n": 20,
+   "nome": "IRAS",
+   "faixa": "Alta",
+   "itens_proj": "1-2",
+   "capitulos": [
+    4
+   ]
+  },
+  {
+   "n": 21,
+   "nome": "Segurança do Paciente",
+   "faixa": "Alta",
+   "itens_proj": "1-2",
+   "capitulos": [
+    5
+   ]
+  },
+  {
+   "n": 22,
+   "nome": "Processo de Enfermagem",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    6
+   ]
+  },
+  {
+   "n": 23,
+   "nome": "Cuidados Paliativos",
+   "faixa": "Baixa",
+   "itens_proj": "0-1",
+   "capitulos": [
+    22
+   ]
+  },
+  {
+   "n": 24,
+   "nome": "Oncologia",
+   "faixa": "Baixa",
+   "itens_proj": "0-1",
+   "capitulos": [
+    22
+   ]
+  },
+  {
+   "n": 25,
+   "nome": "Hemotransfusão",
+   "faixa": "Média",
+   "itens_proj": "1",
+   "capitulos": [
+    21
+   ]
+  },
+  {
+   "n": 26,
+   "nome": "Registro de Enfermagem",
+   "faixa": "Alta",
+   "itens_proj": "1",
+   "capitulos": [
+    6
+   ]
+  }
+ ],
+ "status_capitulos": {
+  "0": "Parte 0 concluída (2026-11-24)",
+  "1": "proposta aprovável; redação pendente"
+ },
+ "doc_parte0": "https://claude.ai/artifact/PStKdYNohKzZtdYkzSGmPr"
+}
