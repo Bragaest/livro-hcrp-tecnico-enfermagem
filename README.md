@@ -29,5 +29,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
 
 ## Status
 - Parte 0: concluída — https://claude.ai/artifact/PStKdYNohKzZtdYkzSGmPr
-- Cap. 1: proposta pronta; redação pendente (teoria + 12 q + MEMOREX).
+- Cap. 1: CONCLUÍDO (25/11/2026) — https://claude.ai/artifact/NMB8eiJfuqowNuaPvm3jMD — teoria 1.1–1.4, 12 pegadinhas, 12 q (gab. C A E B D A E C B D E B), MEMOREX.
+  - Números conferidos na fonte: Res. 564 art.108 (multa 1–10 anuidades; suspensão ≤90 d; cassação ≤30 a), art.109 (cassação = COFEN), art.111 (leve/moderada/grave/gravíssima); Res. 706 art.71 (prescrição 5 a do conhecimento), 73 (parado >3 a), 74 (decadência 5 a do fato), 25 (conciliação vedada em gravíssima), 90 (recurso COFEN 15 d, efeito suspensivo); Lei 5.905 art.18 NÃO fixa limites (remete a regimentos).
+- Próximo: Cap. 2 — SUS (Lei 8.080/90).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: habilitar repo em app.graphify.com.
