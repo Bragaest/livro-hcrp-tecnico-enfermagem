@@ -66,6 +66,10 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Jejum (ASA + Res. CFM 2.174/2017, via fontes secundárias): líquido claro 2 h; leite materno 4 h; fórmula/leite não humano e refeição leve 6 h; gordura/carne 8 h.
   - Dreno de tórax (POPs IPPMG/UFRJ, HCFMB-Unesp, HU-UFGD): haste ~2 cm submersa; frasco abaixo do tórax; observar oscilação; não clampear de rotina (só troca do selo/inevitável). Parecer COREN-SP 053/2013 revogado pelo 035/2019 (não lido) — competência para troca de selo/ordenha deixada a POP/parecer vigente.
   - NÃO conferido: texto da Res. CFM 2.174/2017; períodos perioperatórios e complicações (manual clássico).
-- PRÓXIMO: Cap. 11 — Enfermagem em Clínica Médica (t10).
+- Cap. 11: CONCLUÍDO (26/11/2026) — https://claude.ai/artifact/V2XryD86iVU4f8mXYvUhx9 — 12 pegadinhas, 10 q, gab. A D B E C A E C B D.
+  - DM (SBD via fontes secundárias): jejum ≥126; HbA1c ≥6,5%; TOTG/acaso c/ sintomas ≥200; pré 100–125 / 5,7–6,4%. Hipoglicemia N1 ≤70, N2 <54, N3 rebaixamento; regra 15 g/15 min (N2 30 g).
+  - AVC: Cincinnati (face, braço, fala; USP); trombólise ≤4,5 h, trombectomia ≤24 h (fluxograma SMS-SP); monitorização 24 h pós-trombólise (PCDT Conitec).
+  - NÃO conferido: texto primário da Diretriz SBD; crise hipertensiva, IC, FAV, CAD/EHH (manual clássico).
+- PRÓXIMO: Cap. 12 — Enfermagem em Nutrição e Dietética (t11).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
