@@ -54,6 +54,10 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - SSVV: POP HU-UFGD 038/2025 (T axilar hipotermia <35,5; afebril 35,5–36,9; subfebril 37,0–37,7; febre ≥37,8; FC 60–100; FR 12–20; contar 1 min; manguito pequeno superestima). PA: Diretriz 2025 (normal <120/80; pré-HA 120–139/80–89; estágios 140/160/180) — só fonte secundária (notícia), PDF da diretriz NÃO lido.
   - IM: COREN-SP 2010 (ventroglútea 1ª escolha 4 mL; deltoide 1 mL; dorsoglútea 4 mL, risco ciático; 90°). O2: POP HC-UFTM 038 v4/2026 (cateter até 4 L/min 24–40% — o POP também cita 1–6 L/min; máscara simples 5–10; não reinalante 10–15; Venturi alto fluxo FiO2 fixa; SpO2 92–96%, DPOC 88–92%).
   - NÃO conferido: texto integral da Res. 450/2013; PDF da Diretriz HA 2025; ângulos ID/SC e de Fowler (manual clássico); sequência do preparo pós-morte; vigência de 450/557/619 presumida (páginas sem revogação; Res. COFEN 810–815/2026 não checadas; 816 e 817/2026 não são clínicas).
-- PRÓXIMO: Cap. 8 — Farmacologia (t7) + Módulo Especial A (Cálculo de Medicamentos).
+- Cap. 8: CONCLUÍDO (26/11/2026) — https://claude.ai/artifact/WwCnfYVUnxTJYQFDdvhkVu — 11 pegadinhas, 12 q, gab. E B D A C B E A D C A D.
+  - Conferidos: fórmulas de gotejamento e equivalências (1 mL = 20 gotas = 60 microgotas; gotas = V/(T×3); micro = V/T; minutos ×20 ou ×60) em material USP; MPP/alta vigilância conforme boletim ISMP Brasil 2015 e protocolo HC-UFTM/Ebserh v5 2026 (KCl 19,1%, insulina, heparina, opioides, glicose hipertônica, antiarrítmicos EV, antineoplásicos). Todas as contas executadas em Python.
+  - Transformação de soro: método simplificado (50 mL G50% para SG5%→10% 500 mL) × exato (62,5 mL) — capítulo explica; nenhuma questão cobra.
+  - NÃO conferido: faixa 2–8 °C em fonte oficial de rede de frio; lista ISMP mais recente (vista a de 2015; HU-UFGD cita a de 2019).
+- PRÓXIMO: Cap. 9 — Centro Cirúrgico e Central de Material Esterilizado (t8).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
