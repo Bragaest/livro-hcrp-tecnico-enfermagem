@@ -13,7 +13,8 @@ Ler ESTE arquivo no início de cada sessão. Não reler PDFs inteiros: usar proj
 - Capítulo = Cabeçalho · Teoria · CUIDADO/PEGADINHA · Fixação (Alta 8–15 q; Média 5–8; Baixa 3–5) · MEMOREX 1 pág.
 - Questão: 5 alternativas A–E; gabarito único randomizado; comentário 1 linha/alternativa com rótulo.
 - Rótulos de distrator: TROCA · COMPETÊNCIA · NÚMERO · ABSOLUTO · META · REVOGADA.
-- Um capítulo por sessão, em doc próprio.
+- Um capítulo por doc próprio (Claude Docs). Usuário pediu (25/11/2026): seguir um capítulo atrás do outro, em sequência, sem pedir confirmação ("pode permitir tudo").
+- Pílulas diárias (tarefa agendada) salvas em claude/pilulas/.
 
 ## Normas conferidas (24/11/2026)
 - Lei 5.905/73 · Lei 7.498/86 · Dec. 94.406/87 · Res. COFEN 564/2017 (ética) — vigentes.
@@ -35,5 +36,18 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Lei 8.080 conferida no Planalto: art. 7º tem 16 incisos (XVI humanização, 2025); art. 19-J (2023) acompanhante p/ toda mulher; art. 23 atual PERMITE capital estrangeiro nos casos listados; CONITEC 180+90 d; art. 45 hosp. universitário por convênio. Lei 8.142 só como contexto (não reconferida).
 - Cap. 3: CONCLUÍDO (25/11/2026) — https://claude.ai/artifact/DYCK5g4DQJk86Cj81LaTyQ — 10 q, gab. B E A D C A E B D C.
   - NR-32 conferida (PDF MTE, últ. alt. Portaria MTP 4.219/2022): 32.2.4.15 veda reencape/desconexão; 32.2.4.14 descarte por quem usa; 32.5.3.2 caixa até 5 cm do bocal; 32.5.2 sacos 2/3; 32.2.4.17 vacina gratuita T-D-HepB; 32.2.3.5 CAT em todo acidente biológico; 32.3.9.4.5 cabine II B2; 32.3.9.4.6 afasta gestante e nutriz; 32.4.4 gestante fora de radiação; PGR substituiu PPRA.
-- PRÓXIMO: Cap. 4 — IRAS (t20). Abrir NOVA sessão, ler só este índice.
-- Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: habilitar repo em app.graphify.com.
+- Cap. 4: CONCLUÍDO (25/11/2026) — https://claude.ai/artifact/SR5gRfcKc6X8nz9WszT6xk — 16 pegadinhas, 12 q, gab. B D A E C A C E B D A E.
+  - Portaria 2.616/98 conferida (PDF COFEN): executores 2/200 leitos, enf. 6 h/dia, demais 4 h; +2 h/sem por 10 leitos críticos; ≤70 leitos só médico+enf.; presidente = qualquer membro indicado pela direção; IH a partir de 72 h; RN comunitária só transplacentária e bolsa rota >24 h; transferido = IH do hospital de origem; Anexo IV "luva não dispensa lavagem".
+  - ANVISA NT 03/2026 (republ. 14/07/2026): IRAS a partir de D3 (D1 = internação); dispositivo >2 dias consecutivos (D1 = instalação), em uso ou retirado na véspera; janela 7 d; PIR 14 d; ISC 30 d / 90 d implante.
+  - ANVISA 2017 PAV conferido: cabeceira 30–45°; cuff 25–30 cmH2O (18–22 mmHg); clorexidina aquosa 0,12%; circuito só se sujo/defeito; umidificador passivo 48 h–7 d; aspiração fechada 72 h; subglótica se VM >48–72 h.
+  - CVC/ITU/ISC conferidos em protocolos EBSERH (ANVISA 2017 caps. 2–4 não carregaram): equipo contínuo 96 h, intermitente 24 h, NPT cada bolsa, propofol 6 h, lipídio 12 h, transparente 7 d, gaze 24 h (HC-UFTM), scrub 5–15 s, clorexidina alcoólica 0,5%; SVD sem troca programada, esvaziar por turno/2/3; ATB profilaxia 30–60 min (vanco/quinolona 120 min), glicemia <180, T >35,5 °C, tricotomia elétrica imediatamente antes.
+- Cap. 5: CONCLUÍDO (25/11/2026) — https://claude.ai/artifact/F7AV5DRoyD8HrkEshKBj9e — 14 pegadinhas, 12 q, gab. C E B A D B E A C D A E.
+  - RDC 36/2013 conferida: exclui consultório individualizado, lab. clínico, serviço móvel, atenção domiciliar; NSP nomeado pela direção; notificação mensal pelo NSP até 15º dia útil do mês subsequente; óbito 72 h; adequação 120 d (NSP/PSP) e 150 d (notificação); infração Lei 6.437/77.
+  - Portaria 529/2013 conferida: CIPNSP consultivo, no MS, coordenado pela ANVISA; COFEN tem vaga; propõe e valida protocolos.
+  - Protocolos 2013 conferidos: ≥2 identificadores em pulseira branca; 9 certos (paciente, medicamento, via, hora, dose, documentação, ação, forma, resposta); ordem verbal só urgência + read-back; abolir U/UI; hora certa ≤30 min com consentimento; prescrição 24 h; Braden 15–18/13–14/10–12/≤9; decúbito máx. 2/2 h; cirurgia segura 3 fases. 1.377 = cirurgia, mãos, UPP; 2.095 = quedas, identificação, medicamentos.
+- Cap. 6: CONCLUÍDO (25/11/2026) — https://claude.ai/artifact/Et8AsiUwDT5LsHmqEyex5F — 11 pegadinhas, 10 q, gab. C A E B D E C A D B.
+  - Res. 736/2024 conferida: 5 etapas (Avaliação, Diagnóstico, Planejamento, Implementação, Evolução); art. 6º privativo = diagnóstico + prescrição; arts. 7º–8º técnico participa com anotação, implementação e checagem; vale em todo contexto socioambiental; revogou 358/2009.
+  - Res. 545/2017: siglas ENF, OBST, TE, AE, PAR; formato COREN-UF-número-sigla; carimbo obrigatório (art. 5º prevalece sobre CEPE, parecer COFEN 2018); revogou 191/1996. Res. 429/2012 revogada pela 754/2024. Guia Res. 514/2016 (correção de erro) descrito via CORENs, texto integral não relido.
+- PRÓXIMO: Cap. 7 — Introdução e Fundamentos de Enfermagem (t6).
+- GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
+- Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
