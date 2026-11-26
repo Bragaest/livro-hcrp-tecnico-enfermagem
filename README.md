@@ -58,6 +58,10 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Conferidos: fórmulas de gotejamento e equivalências (1 mL = 20 gotas = 60 microgotas; gotas = V/(T×3); micro = V/T; minutos ×20 ou ×60) em material USP; MPP/alta vigilância conforme boletim ISMP Brasil 2015 e protocolo HC-UFTM/Ebserh v5 2026 (KCl 19,1%, insulina, heparina, opioides, glicose hipertônica, antiarrítmicos EV, antineoplásicos). Todas as contas executadas em Python.
   - Transformação de soro: método simplificado (50 mL G50% para SG5%→10% 500 mL) × exato (62,5 mL) — capítulo explica; nenhuma questão cobra.
   - NÃO conferido: faixa 2–8 °C em fonte oficial de rede de frio; lista ISMP mais recente (vista a de 2015; HU-UFGD cita a de 2019).
-- PRÓXIMO: Cap. 9 — Centro Cirúrgico e Central de Material Esterilizado (t8).
+- Cap. 9: CONCLUÍDO (26/11/2026) — https://claude.ai/artifact/WEEXv2BxMTCtGyrg4bR9AP — 12 pegadinhas, 8 q, gab. B D A E C A D E.
+  - RDC 15/2012 conferida (PDF SES-GO): crítico→esterilização (art. 11), semicrítico→DAN (art. 12), não crítico→limpeza (art. 14); respiratórios: mín. nível intermediário/térmica, vedado aldeído (arts. 12 pú, 13); complexo = lúmen <5 mm; Classe I = críticos não complexos + barreira técnica (art. 46); Classe II = complexos + barreira física (art. 48) + RT nível superior exclusivo (art. 28); estufa proibida (92); gravitacional >100 L proibida (91); Bowie-Dick 1º ciclo/dia em autoclave c/ bomba de vácuo (93); IQ classe 5/6 toda carga (96); físicos todo ciclo (97); IB implantável toda carga, liberar se negativo (98); IB rotina diário (99); registros 5 anos (26 pú).
+  - Aldrete-Kroulik (1995): atividade, respiração, circulação, consciência, SpO2; 0–10; alta 8–10 (SOBECC, SciELO) — algumas fontes citam 9.
+  - NÃO conferido: Anexo II da Portaria 2.616/98 (classificação limpa/pot. contaminada/contaminada/infectada — redação clássica); áreas do CC, tempos cirúrgicos e posições (manual clássico).
+- PRÓXIMO: Cap. 10 — Enfermagem em Clínica Cirúrgica (t9).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
