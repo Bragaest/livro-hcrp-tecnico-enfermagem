@@ -75,6 +75,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Res. COFEN 453/2014 conferida (16/01/2014; revogou 277/2003): auxiliar vedado em TN (só higiene/conforto); técnico participa "naquilo que lhes couber, ou por delegação"; NP periférica ≤900 mOsm/L, central >700; sondas 8–16 Fr, GTT 14–26 Fr, JJT 8–10 Fr. Ainda cita RDC 63/2000 e COFEN 358/2009 (revogadas).
   - POPs HU-UFGD/Ebserh: EMTN 004 v2/2024 (NP: via exclusiva/distal; 2–8 °C, retirar ~1 h antes; capa fotoprotetora; 24 h contínua; equipo a cada bolsa; vedado alterar vazão; interrupção só c/ ordem médica → SG 10% mesma velocidade; peso ≥1×/sem; volume a cada 6 h); DENF 068 v2/2025 (semi-Fowler 45°; aberto 90–120 min, validade 4 h; fechado 24 h; equipo 24 h; lavar 20 mL; diarreia não suspender); DENF 007 v3/2025 (cabeceira ≥45°; triturar e dar separadamente; 15–30 mL antes/depois, 5–15 mL entre).
   - NÃO conferido: Portaria SVS/MS 272/1998 (texto e vigência); nomenclatura das dietas orais (manual clássico); lista de não trituráveis (princípio clássico); volume residual gástrico (nenhuma fonte fixou limite). POP 068 ainda usa ausculta c/ 20 mL de ar — livro não cobra.
-- PRÓXIMO: Cap. 13 — Urgência e Emergência (t12).
+- Cap. 13: EM PRODUÇÃO (28/11/2026, sessão manual) — NÃO produzir; a sessão manual registra aqui ao concluir.
+- PRÓXIMO: Cap. 14 — Enfermagem em Centro de Terapia Intensiva (t19).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
