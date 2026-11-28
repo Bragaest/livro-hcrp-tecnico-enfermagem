@@ -92,6 +92,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Notificação: Lei 6.259/75 arts. 7º (suspeito ou confirmado), 8º (médicos e outros profissionais), 14 (infração); PRC 4/2017 Anexo V art. 2º (imediata 24 h; semanal 7 d), art. 4º (primeiro atendimento). Imediatas: sarampo, raiva, óbito dengue (MS/SES/SMS); violência sexual, tentativa de suicídio, acidente por animal (SMS). Semanais: AT biológico, dengue caso, TB, sífilis, violência doméstica.
   - Rede de Frio 6ª ed. 2025 (cópia SES-GO): +2 a +8 °C; set point +5; alarmes +3/+7; leitura ≥2×/dia; geladeira doméstica e frigobar proibidos; excursão = segregar, identificar, manter refrigerado, notificar coord. estadual; caixa térmica: bobinas a 0 °C, vacinas a partir de +1 °C, trocar bobinas a +7 °C.
   - NÃO conferido: DOU das portarias de 2026 da lista de notificação (10.175, 11.211, 12.508 — lidas via CONASS/Pref. SP; caxumba com prazo divergente, deixada fora); nova PNAB set–nov/2026; fim da transição VPC10→VPC20; data da mudança da janela do rotavírus; Leavell & Clark e "4–12 ACS" da PNAB 2011 (clássico).
-- PRÓXIMO: Cap. 16 — Enfermagem em Pediatria e Neonatologia (t14).
+- Cap. 16: EM PRODUÇÃO (28/11/2026, sessão manual) — NÃO produzir; a sessão manual registra aqui ao concluir.
+- PRÓXIMO: Cap. 17 — Enfermagem em Obstetrícia e Ginecologia (t15).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
