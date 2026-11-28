@@ -110,6 +110,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - CAPS (página MS + Port. 3.588/2017): I >15 mil; II/i/AD >70 mil; III/AD III >150 mil 24 h; AD IV >500 mil e capitais.
   - Lítio 0,6–1,2 mEq/L (RMRP-USP), tóxico >1,5, sem antídoto. Clozapina hemograma semanal 18 sem → mensal (PCDT 364/2013 via SES-SC).
   - NÃO conferido: componentes 4–7 da RAPS (BVS não abriu); Res. CFM 2.057/2013; SNM/EPS/BZD; horário da litemia; PCDT esquizofrenia atual.
-- PRÓXIMO: Cap. 19 — Enfermagem em Geriatria (t18).
+- Cap. 19: EM PRODUÇÃO (sessão manual, 28/11/2026 12:40) — NÃO produzir.
+- PRÓXIMO: Cap. 20 — Enfermagem em Ortopedia (t16).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
