@@ -110,7 +110,11 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - CAPS (página MS + Port. 3.588/2017): I >15 mil; II/i/AD >70 mil; III/AD III >150 mil 24 h; AD IV >500 mil e capitais.
   - Lítio 0,6–1,2 mEq/L (RMRP-USP), tóxico >1,5, sem antídoto. Clozapina hemograma semanal 18 sem → mensal (PCDT 364/2013 via SES-SC).
   - NÃO conferido: componentes 4–7 da RAPS (BVS não abriu); Res. CFM 2.057/2013; SNM/EPS/BZD; horário da litemia; PCDT esquizofrenia atual.
-- Cap. 19: EM PRODUÇÃO (sessão manual, 28/11/2026 12:40) — NÃO produzir.
+- Cap. 19: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/BgEy5GEbjZNL22QRD1Vq7z — 12 pegadinhas, 8 q, gab. B D A E C A D E.
+  - Estatuto da Pessoa Idosa conferido (Planalto; nome pela Lei 14.423/2022): ≥60 a; art. 3º §2º prioridade especial >80; art. 15 §§2º–3º medicamentos/próteses gratuitos e vedação de cobrança por idade; art. 16 acompanhante internado ou em observação, profissional responsável justifica recusa por escrito; art. 19 notificação compulsória à autoridade sanitária + polícia, MP, conselhos; arts. 97 (6 m–1 a), 98 abandono em hospital (6 m–3 a), 99 (2–5 a).
+  - Síndromes geriátricas: UNA-SUS (lista ampliada) + Moraes/Fiocruz (Isaacs 1969 + comunicação e insuficiência familiar).
+  - Vacinas 60+: folheto MS 2026 (influenza anual, covid semestral, VPC20 1 dose) + calendário técnico 2025 (hep B, dT 10 a/5 a, FA excepcional, VPP23 acamados/institucionalizados).
+  - NÃO conferido: VSR idoso (só imprensa); PNSPI 2.528/2006; itens Katz/Lawton (CAB 19 não relido); CAM/Beers; calendário técnico idoso 2026.
 - PRÓXIMO: Cap. 20 — Enfermagem em Ortopedia (t16).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
