@@ -96,7 +96,13 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Portaria SAS/MS 371/2014 (via Portal Brasil): pele a pele imediato; clampeamento após cessar pulsação ~1–3 min, exceto isoimunizada/HIV/HTLV. USP ENP 0375: neonatal 0–27 d; baixo peso <2.500 g; vit K 1 mg IM; hep B IM; nitrato de prata 1%; banho imediato se HIV/hep B.
   - RCP pediátrica AHA/AAP 2025 (Afya SBV/SAVP, AAP): dois dedos ELIMINADO (dois polegares ou base de 1 mão); 1/3 AP ~4 cm lactente/~5 cm criança; 30:2 (1) / 15:2 (2+); via avançada 1 vent a cada 2–3 s (20–30/min); engasgo criança = costas + abdominais.
   - NÃO conferido: agente atual da profilaxia ocular; momentos de coraçãozinho/olhinho/orelhinha/linguinha (portarias não relidas); tabela SSVV pediátrica (manual clássico).
-- Cap. 17: EM PRODUÇÃO (sessão manual, 28/11/2026 05:15) — NÃO produzir.
+- Cap. 17: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/D35VgiuBhWnB4R121bAxff — 14 pegadinhas, 8 q, gab. C E A D B A E B.
+  - Rede Alyne (Port. GM/MS 5.350/2024, BVS): captação ≤12 sem; ≥7 consultas intercaladas enf./médico. Leis 11.108/2005, 11.634/2007, 14.737/2023.
+  - Vacinas gestante (Calendário MS 2026, página PNI): dTpa ≥20ª sem cada gestação; VSR ≥28ª sem 1 dose/gestação; hep B e dT 1ª consulta (não revacinar hep B c/ 3 doses); influenza e covid qualquer fase; resgate puerpério até 45 d.
+  - MgSO4 (POP 74 ME-UFRJ): enf. e técnico administram; ataque 50% 8 mL (4 g)/10 min; manutenção 20 mL em 500 mL a 50 mL/h (1 g/h); FR/PA/diurese horárias; 24 h após última crise; antídoto gluconato de cálcio 10%. Pré-eclâmpsia ≥140/90 após 20 sem (HC-UFMG 224); iminência e oligúria <500 mL/24 h (CIB-SP 123/2021). Limiares FR/diurese divergem entre protocolos (sinalizado).
+  - HPP: >500/>1.000 mL (OMS 2017); OMS 2025 ≥300 mL + instabilidade ou ≥500 mL (IFF/Fiocruz); ocitocina 10 UI IM; TXA 1 g EV 10 min ≤3 h, 2ª dose após 30 min; maciça >2.000 mL/≥4 CH.
+  - DNA-HPV 25–64 a cada 5 a (INCA 2025, COFEN 08/2025). Mamografia 50–74 bienal, 40–49 sob demanda (MS 23/09/2025 via imprensa).
+  - NÃO conferido: periodicidade de consultas/AU (CAB 32); Pritchard; puerpério/lóquios; documento oficial mamografia; Port. 10.273/2026 (exames Alyne).
 - PRÓXIMO: Cap. 18 — Enfermagem em Saúde Mental (t17).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
