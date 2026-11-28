@@ -79,6 +79,12 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Manchester 0/10/60/120/240 min (RLAE/USP, REAS/UFTM). RCP/ACLS AHA 2025 conforme pílula 27/11 (destaques AHA PT-BR parcial + Afya): 100–120/min, 5–6 cm, pulso ≤10 s, 30:2 sem via avançada, contínuas com via avançada, troca 2 min, cadeia única; adrenalina já no não chocável/após 2º choque no chocável; amiodarona 300→150; OVACE 5+5.
   - DIVERGÊNCIA aberta: 1 vent/6 s com via aérea avançada na PCR (Afya) × resumo AHA (parada respiratória). Texto primário não lido (fetch do PDF AHA pediu aprovação sem resposta).
   - NÃO conferido: competência da classificação de risco (resolução COFEN não relida); XABCDE; tipos de choque; Regra dos Nove (manual clássico).
-- PRÓXIMO: Cap. 14 — Enfermagem em Centro de Terapia Intensiva (t19).
+- Cap. 14: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/TFYeqn67j3TYK7ZC8B1yjF — 12 pegadinhas, 8 q, gab. C E A D B A E D.
+  - RDC ANVISA 7/2010 conferida (texto 2010, gov.br/saude): art. 4º XXVI (UTI) e XVI (paciente grave); art. 14 técnico 1:2 leitos/turno, auxiliar não consta, médicos 1:10, fisio 1:10 (18 h); art. 57 V 4 bombas/leito; art. 58 XII ventilador 1:2 leitos; arts. 48–49 escore de gravidade (sem nomear) e classificação de cuidados. RDC 26/2012 (via Parecer CTLN/COFEN 07/2016): enfermeiro 1:8 → 1:10 e suprimiu técnico de apoio.
+  - Res. CFM 2.173/2017 conferida: art. 1º (lesão conhecida, 6 h / 24 h hipóxico-isquêmica, T >35 °C, SpO2 >94%, PAS ≥100 ou PAM ≥65); art. 2º–5º (2 exames clínicos por médicos diferentes, 1 apneia PaCO2 >55, 1 complementar); art. 3º §4º intervalos 24 h/12 h/1 h; art. 10 §1º examinador não transplanta; art. 8º família; art. 9º hora do óbito; art. 12 revogou 1.480/1997.
+  - Aspiração: POP HCFMB-Unesp GE 047 v6/2025 (FiO2 100%; ≤10 s; tubo→narinas→boca; asséptica; SF não rotina; sonda = 2×DI−4; fechado com FiO2/PEEP altas; cita Res. 557/2017 arts. 2º–5º).
+  - RASS (meta 0 a −2) e BPS 3–12: protocolo HC-UFU/Ebserh 2026 (descrições da RASS vieram de resumo do PDF, consistentes com Sessler). Glasgow + reatividade pupilar 2018 (0/1/2, decrescente): POP HC-UFTM UMULTI 057 v4.
+  - NÃO conferido: desfecho da CP ANVISA 753/2019 (revisão da RDC 7/2010) e texto consolidado vigente; tabela original da RASS; pontos de cada item da Glasgow e a fórmula Glasgow-P (subtração) no artigo de 2018 (Brennan); bolsa pressurizadora/zeramento da PAI; metas de manutenção do potencial doador.
+- PRÓXIMO: Cap. 15 — Enfermagem em Saúde Coletiva (t13).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
