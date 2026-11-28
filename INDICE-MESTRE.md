@@ -115,7 +115,10 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Síndromes geriátricas: UNA-SUS (lista ampliada) + Moraes/Fiocruz (Isaacs 1969 + comunicação e insuficiência familiar).
   - Vacinas 60+: folheto MS 2026 (influenza anual, covid semestral, VPC20 1 dose) + calendário técnico 2025 (hep B, dT 10 a/5 a, FA excepcional, VPP23 acamados/institucionalizados).
   - NÃO conferido: VSR idoso (só imprensa); PNSPI 2.528/2006; itens Katz/Lawton (CAB 19 não relido); CAM/Beers; calendário técnico idoso 2026.
-- Cap. 20: EM PRODUÇÃO (sessão manual, 28/11/2026 12:50) — NÃO produzir.
+- Cap. 20: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/KkV5N8WUEDxdajEXxK1HWL — 11 pegadinhas, 6 q, gab. C A E B D A.
+  - Res. COFEN 705/2022 (21/07/2022; página COFEN) revogou 422/2012: art. 1º enfermeiro, técnico e auxiliar executam, respeitada Lei 7.498; art. 2º supervisão do enfermeiro + processo de enfermagem. PDF integral não lido. Indicação/redução = médico (Parecer COREN-SP 2011/58).
+  - Tração: pesos não retirados pela enfermagem (pareceres COREN-RS). Gesso: 3–5 cm acolchoamento, 8–10 camadas gesso / 2–4 fibra, compartimental por compressão (MSD). ATQ: evitar flexão >90°, adução além da linha média, rotação extrema (via posterior) (POP HC-UFTM UMULTI 037/2026).
+  - NÃO conferido: cuidados de gesso, 5 Ps da compartimental, embolia gordurosa, fixador externo, medidas de TEV (manual clássico).
 - PRÓXIMO: Cap. 21 — Hemotransfusão (t25).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
