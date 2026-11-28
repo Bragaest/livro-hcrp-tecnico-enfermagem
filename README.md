@@ -103,7 +103,13 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - HPP: >500/>1.000 mL (OMS 2017); OMS 2025 ≥300 mL + instabilidade ou ≥500 mL (IFF/Fiocruz); ocitocina 10 UI IM; TXA 1 g EV 10 min ≤3 h, 2ª dose após 30 min; maciça >2.000 mL/≥4 CH.
   - DNA-HPV 25–64 a cada 5 a (INCA 2025, COFEN 08/2025). Mamografia 50–74 bienal, 40–49 sob demanda (MS 23/09/2025 via imprensa).
   - NÃO conferido: periodicidade de consultas/AU (CAB 32); Pritchard; puerpério/lóquios; documento oficial mamografia; Port. 10.273/2026 (exames Alyne).
-- Cap. 18: EM PRODUÇÃO (sessão manual, 28/11/2026) — NÃO produzir.
+- Cap. 18: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/P4nVi41X1M2JMocVBSGTa6 — 15 pegadinhas, 8 q, gab. E B D A C D A C.
+  - Lei 10.216 conferida (Planalto): art. 2º pú 9 direitos; art. 4º extra-hospitalar insuficiente, asilar proibida; art. 6º laudo + 3 tipos; art. 7º declaração/término; art. 8º CRM do estado, involuntária → MP Estadual 72 h (e alta), término por familiar/especialista; art. 9º juiz; art. 10 evasão/transferência/acidente/intercorrência/óbito 24 h.
+  - Lei 13.840/2019 (art. 23-A Lei 11.343, Planalto): involuntária por familiar/responsável ou servidor saúde/assistência/Sisnad, exceto segurança pública; ≤90 d; MP+Defensoria 72 h; vedada em comunidade terapêutica.
+  - Res. COFEN 746/2024 (20/03/2024) revogou 427/2012: único meio; supervisão direta do enfermeiro; APH móvel ≥5 pessoas; monitoramento; registro (motivo, duração, avaliações, EA). NÃO repete a vedação expressa disciplina/punição da 427.
+  - CAPS (página MS + Port. 3.588/2017): I >15 mil; II/i/AD >70 mil; III/AD III >150 mil 24 h; AD IV >500 mil e capitais.
+  - Lítio 0,6–1,2 mEq/L (RMRP-USP), tóxico >1,5, sem antídoto. Clozapina hemograma semanal 18 sem → mensal (PCDT 364/2013 via SES-SC).
+  - NÃO conferido: componentes 4–7 da RAPS (BVS não abriu); Res. CFM 2.057/2013; SNM/EPS/BZD; horário da litemia; PCDT esquizofrenia atual.
 - PRÓXIMO: Cap. 19 — Enfermagem em Geriatria (t18).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
