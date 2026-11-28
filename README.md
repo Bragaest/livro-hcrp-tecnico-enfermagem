@@ -119,7 +119,12 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Res. COFEN 705/2022 (21/07/2022; página COFEN) revogou 422/2012: art. 1º enfermeiro, técnico e auxiliar executam, respeitada Lei 7.498; art. 2º supervisão do enfermeiro + processo de enfermagem. PDF integral não lido. Indicação/redução = médico (Parecer COREN-SP 2011/58).
   - Tração: pesos não retirados pela enfermagem (pareceres COREN-RS). Gesso: 3–5 cm acolchoamento, 8–10 camadas gesso / 2–4 fibra, compartimental por compressão (MSD). ATQ: evitar flexão >90°, adução além da linha média, rotação extrema (via posterior) (POP HC-UFTM UMULTI 037/2026).
   - NÃO conferido: cuidados de gesso, 5 Ps da compartimental, embolia gordurosa, fixador externo, medidas de TEV (manual clássico).
-- Cap. 21: EM PRODUÇÃO (sessão manual, 28/11/2026 12:56) — NÃO produzir.
+- Cap. 21: CONCLUÍDO (28/11/2026) — https://claude.ai/artifact/A6ov4Ge4Xu4Aea7Mg8xhw3 — 12 pegadinhas, 8 q, gab. D B E A C E A D.
+  - Res. COFEN 709/2022 (página COFEN; revogou 629/2020): art. 2º RT preferencialmente especialista; art. 3º só capacitados; técnico = treinar, cuidar conforme prescrição/protocolo, comunicar enfermeiro, registrar; enfermeiro = hemovigilância/notificação. Sem prazo de notificação (629 previa 72 h ao produtor).
+  - PRC 5/2017 Anexo IV via SES-RS: amostra 72 h (art. 175); transporte CH 1–10 °C, plaquetas 20–24 °C; urgência antes do fim dos testes (art. 170).
+  - POP HC-UFTM DENF 024 v5: bancada ≤30 min; instalação enfermeiro/médico; SSVV antes/10 min/fim + 1 h; máx. CH 4 h, plaq/plasma 60 min, crio 90 min; acesso exclusivo, só SF; filtro 170–260 µm; não aquecer/bomba (regra local); dupla checagem. ME-UFRJ: qualquer HC ≤4 h; usual CH 90–120 min; SG hemolisa, RL coagula.
+  - Reação (USP, HUPAA-UFAL, HU-UFGD): interromper, SF 0,9%, conferir, SSVV, médico, SH, enviar bolsa+equipo+amostras; Notivisa pelo produtor (SES-RS).
+  - NÃO conferido: texto literal PRC 5 sobre quem instala/10 min; Marco Conceitual de Hemovigilância ANVISA.
 - PRÓXIMO: Cap. 22 — Oncologia e Cuidados Paliativos (t24, t23).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
