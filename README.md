@@ -96,6 +96,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Portaria SAS/MS 371/2014 (via Portal Brasil): pele a pele imediato; clampeamento após cessar pulsação ~1–3 min, exceto isoimunizada/HIV/HTLV. USP ENP 0375: neonatal 0–27 d; baixo peso <2.500 g; vit K 1 mg IM; hep B IM; nitrato de prata 1%; banho imediato se HIV/hep B.
   - RCP pediátrica AHA/AAP 2025 (Afya SBV/SAVP, AAP): dois dedos ELIMINADO (dois polegares ou base de 1 mão); 1/3 AP ~4 cm lactente/~5 cm criança; 30:2 (1) / 15:2 (2+); via avançada 1 vent a cada 2–3 s (20–30/min); engasgo criança = costas + abdominais.
   - NÃO conferido: agente atual da profilaxia ocular; momentos de coraçãozinho/olhinho/orelhinha/linguinha (portarias não relidas); tabela SSVV pediátrica (manual clássico).
-- PRÓXIMO: Cap. 17 — Enfermagem em Obstetrícia e Ginecologia (t15).
+- Cap. 17: EM PRODUÇÃO (sessão manual, 28/11/2026 05:15) — NÃO produzir.
+- PRÓXIMO: Cap. 18 — Enfermagem em Saúde Mental (t17).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
