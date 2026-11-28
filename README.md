@@ -103,6 +103,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - HPP: >500/>1.000 mL (OMS 2017); OMS 2025 ≥300 mL + instabilidade ou ≥500 mL (IFF/Fiocruz); ocitocina 10 UI IM; TXA 1 g EV 10 min ≤3 h, 2ª dose após 30 min; maciça >2.000 mL/≥4 CH.
   - DNA-HPV 25–64 a cada 5 a (INCA 2025, COFEN 08/2025). Mamografia 50–74 bienal, 40–49 sob demanda (MS 23/09/2025 via imprensa).
   - NÃO conferido: periodicidade de consultas/AU (CAB 32); Pritchard; puerpério/lóquios; documento oficial mamografia; Port. 10.273/2026 (exames Alyne).
-- PRÓXIMO: Cap. 18 — Enfermagem em Saúde Mental (t17).
+- Cap. 18: EM PRODUÇÃO (sessão manual, 28/11/2026) — NÃO produzir.
+- PRÓXIMO: Cap. 19 — Enfermagem em Geriatria (t18).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
