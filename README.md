@@ -115,6 +115,7 @@ Parte V: Simulados 1–3 (35/5/5/5) · MEMOREX de Véspera · Apêndices (normas
   - Síndromes geriátricas: UNA-SUS (lista ampliada) + Moraes/Fiocruz (Isaacs 1969 + comunicação e insuficiência familiar).
   - Vacinas 60+: folheto MS 2026 (influenza anual, covid semestral, VPC20 1 dose) + calendário técnico 2025 (hep B, dT 10 a/5 a, FA excepcional, VPP23 acamados/institucionalizados).
   - NÃO conferido: VSR idoso (só imprensa); PNSPI 2.528/2006; itens Katz/Lawton (CAB 19 não relido); CAM/Beers; calendário técnico idoso 2026.
-- PRÓXIMO: Cap. 20 — Enfermagem em Ortopedia (t16).
+- Cap. 20: EM PRODUÇÃO (sessão manual, 28/11/2026 12:50) — NÃO produzir.
+- PRÓXIMO: Cap. 21 — Hemotransfusão (t25).
 - GitHub: repo privado Bragaest/livro-hcrp-tecnico-enfermagem criado e sincronizado (25/11/2026).
 - Graphify: workspace "rafael-s-workspace-15ab45" (Free), 0 repositórios. Bloqueio: usuário habilitar o repo em app.graphify.com.
